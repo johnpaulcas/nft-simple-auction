@@ -45,6 +45,6 @@ OR
    └── sample-test.js
 ```
 
-## Deployed Contract
+## Deployed Contract (rinkeby)
 - NFT: 0xF8831ec3054441ca67707d548CCe386fcB2CDbae
 - Auction: 0x355205cEf9C03c106DCd8f47A6A0b1C23BA962F1
